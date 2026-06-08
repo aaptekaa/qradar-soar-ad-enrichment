@@ -1,0 +1,14 @@
+[Unit]
+Description=SOAR Active Directory Enrichment Service
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/soar-ad-enrichment
+ExecStart=/usr/bin/python3 /opt/soar-ad-enrichment/enrichment.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
