@@ -116,3 +116,5 @@ tail -f /opt/soar-ad-enrichment/enrichment.log
 - **RHEL** 8.x / systemd
 
 <img width="1382" height="826" alt="image" src="https://github.com/user-attachments/assets/e02fa95b-143f-497d-8997-2d0fa2cf15ce" />
+<img width="1151" height="886" alt="image" src="https://github.com/user-attachments/assets/c55006a3-44a8-44fc-84ef-025952e2b393" />
+
