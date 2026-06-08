@@ -114,3 +114,5 @@ tail -f /opt/soar-ad-enrichment/enrichment.log
 - **Active Directory** / Windows Server 2016+
 - **Python** 3.6+
 - **RHEL** 8.x / systemd
+
+<img width="1382" height="826" alt="image" src="https://github.com/user-attachments/assets/e02fa95b-143f-497d-8997-2d0fa2cf15ce" />
